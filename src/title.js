@@ -9,6 +9,7 @@ function Title() {
       <p className="Menu-Item">Town</p>
       <p className="Menu-Item">Arena</p>
       <p className="Menu-Item">Track</p>
+      <p className="Right-Item">User</p>
     </div>
   )
 }

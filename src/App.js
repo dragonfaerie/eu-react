@@ -7,7 +7,10 @@ function App() {
   return (
     <div>
          <Title />
+
+         Welcome text here
     </div>
+
 
   );
 }
